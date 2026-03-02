@@ -1,0 +1,11 @@
+{
+  "name": "nexaedge-site",
+  "version": "1.0.0",
+  "description": "Corporate website with contact backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  }
+}
